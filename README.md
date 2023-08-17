@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishornaik-25&label=Profile%20views&color=0e75b6&style=flat" alt="kishornaik-25" /> </p>
 
-- 🔭 I’m currently working on **Data Science, Transformers(NLP,CV) projects**
+- 🔭 I’m currently working on **Data Science, Transformers(NLP) projects**
 
 - 🌱 I’m currently learning **Stable Diffusion(Generative AI),Prompt Engineering**
 
