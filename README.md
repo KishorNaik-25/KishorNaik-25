@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Stable Diffusion(Generative AI),Prompt Engineering**
 
-- 💬 Ask me about **Data Analyst, Business Analyst, Data Science, ML**
+- 💬 Ask me about **Data Science, ML, Data Analyst, Business Analyst**
 
 - 📫 How to reach me **kishor88611@gmail.com**
 
